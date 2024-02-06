@@ -1,4 +1,4 @@
-module otelecho
+module github.com/UpBlueio/otelecho
 
 go 1.19
 

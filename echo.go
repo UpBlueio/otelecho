@@ -22,7 +22,7 @@ import (
 
 	"go.opentelemetry.io/otel"
 
-	"otelecho/internal/semconvutil"
+	"github.com/UpBlueio/otelecho/internal/semconvutil"
 
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/propagation"
